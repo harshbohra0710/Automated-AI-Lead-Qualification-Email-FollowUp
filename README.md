@@ -38,7 +38,10 @@ Workflow
 8. Gmail automatically sends the email to the lead.
 
 ⸻
-
+## Workflow Overview
+![Workflow](workflow-screenshot.png)
+## Example Email
+![Email Example](Email.png)
 Tech Stack
 
 * n8n
